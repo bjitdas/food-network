@@ -5,6 +5,10 @@ body{
 h1{
     font-size: 60px;
 }
+h2{
+    font-weight: 800;
+    font-size: 35px;
+}
 .orange{
     color: orange;
 }
@@ -71,4 +75,21 @@ h1{
     width: 98%;
     height: 65%;
     border-radius: 15px;
+}
+.four-sec{
+    display: flex;
+    box-shadow: 5px 5px 15px rgb(185, 180, 180);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    border-radius: 15px;
+}
+.four-sec-div{
+    padding-left: 18%;
+}
+.five-sec{
+    background-color: black;
+    text-align: center;
+    padding: 40px;
+    color: white;
 }
