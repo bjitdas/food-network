@@ -53,3 +53,22 @@ h1{
 #recipie-div{
     text-align: center;
 }
+.third-sec{
+    display: flex;
+    margin-right: 2%;
+    margin-left: 3%;
+}
+.t-sec-div{
+    width: 28%;
+    padding: 1%;
+    box-shadow: 10px 10px 20px rgb(240, 234, 234);
+    border-radius: 25px;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 120px;
+}
+.t-img{
+    width: 98%;
+    height: 65%;
+    border-radius: 15px;
+}
