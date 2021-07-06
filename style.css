@@ -15,15 +15,41 @@ h1{
     text-decoration: none;
     color: whitesmoke;
 }
-#f-img{
-    width: 85%;
+.f-img{
+    width: 80%;
 }
 .f-sec{
     display: flex;
+    margin-bottom: 120px;
 }
 .f-sec-div{
     width: 50%;
     margin-top: 3%;
-    padding-left: 6%;
+    padding-left: 4%;
     padding-right: 4%;
+}
+
+.s-sec{
+    display: flex;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-size: 100%;
+    background-repeat: none;
+    background-position: left;
+    margin-bottom: 150px;
+}
+.s-img{
+    width: 60%;
+    margin-left: 10%;
+}
+.s-sec-div{
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+#s-one-div{
+    padding-top: 15%;
+}
+#recipie-div{
+    text-align: center;
 }
