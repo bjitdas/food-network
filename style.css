@@ -67,12 +67,15 @@ h3{
 }
 .t-sec-div{
     width: 28%;
-    padding: 1%;
-    box-shadow: 10px 10px 20px rgb(240, 234, 234);
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    box-shadow: 10px 10px 20px rgb(211, 208, 208);
     border-radius: 25px;
     margin-left: 4%;
     margin-right: 4%;
     margin-bottom: 120px;
+    
 }
 .t-img{
     width: 98%;
