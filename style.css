@@ -9,6 +9,9 @@ h2{
     font-weight: 800;
     font-size: 35px;
 }
+h3{
+    font-size: 30px;
+}
 .orange{
     color: orange;
 }
@@ -92,4 +95,29 @@ h2{
     text-align: center;
     padding: 40px;
     color: white;
+    margin-top: 70px;
+}
+.cities{
+    display: flex;
+}
+.city-div{
+    width: 29%;
+    margin-left: 3%;
+    margin-right: 2%;
+    box-shadow: 5px 10px 20px gray;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    border-radius: 10px;
+}
+.city-img{
+    height: 80%;
+    width: 100%;
+    border-radius: 10px;
+}
+#city-h{
+    margin-left: 3%;
+}
+.social{
+    text-align: center;
 }
